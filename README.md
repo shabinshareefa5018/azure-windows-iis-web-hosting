@@ -56,6 +56,12 @@ Commands/powershell-commands.md
 The website was successfully hosted and accessed using the Azure VM Public IP.
 
 ---
+| Error                | Solution                                       |
+| -------------------- | ---------------------------------------------- |
+| IIS page not loading | Check HTTP port (80) in NSG                    |
+| RDP not connecting   | Verify port 3389 is allowed                    |
+| HTML not displaying  | Ensure `index.html` is in `C:\inetpub\wwwroot` |
+| IIS service stopped  | Run `Start-Service W3SVC`                      |
 
 ## Learning Outcomes
 
