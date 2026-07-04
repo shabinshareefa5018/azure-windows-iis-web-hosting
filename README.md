@@ -47,7 +47,8 @@ Commands/powershell-commands.md
 
 ## Screenshots
 
-(Add screenshots here.)
+
+<img width="1536" height="1024" alt="ChatGPT Image Jul 4, 2026, 01_43_50 PM" src="https://github.com/user-attachments/assets/6ccaf1b2-19f1-452b-a989-e4e857e2a202" />
 
 ---
 
